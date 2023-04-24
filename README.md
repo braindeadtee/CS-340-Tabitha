@@ -22,7 +22,7 @@ In the future, I would use similar techniques and strategies to create databases
 
 
 
-
+**********************************************************************************************************************************************************************
 
 
 Computer scientists use their knowledge of computer systems and algorithms to solve complex problems in a variety of fields such as finance, healthcare, and entertainment. They design and develop software applications, create new algorithms for data analysis, and work on cutting-edge technologies such as artificial intelligence and machine learning.
